@@ -190,3 +190,4 @@ bar {
 }
 
 exec_always --no-startup-id ~/.fehbg
+exec_always --no-startup-id xset s off -dpms
