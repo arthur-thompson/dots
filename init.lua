@@ -50,8 +50,9 @@ local cfg = {
 
 -- settings
 
---vim.cmd([[colorscheme modus_operandi]])
-vim.cmd([[colorscheme modus_operandi]]) -- modus_operandi, modus_vivendi
+--vim.cmd([[colorscheme modus_operandi]]) -- modus_operandi, modus_vivendi
+--vim.cmd([[colorscheme modus_vivendi]])
+vim.cmd([[colorscheme zellner]])
 termguicolors = true
 
 vim.api.nvim_set_option('mouse', 'a')
